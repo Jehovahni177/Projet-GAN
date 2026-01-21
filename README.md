@@ -23,7 +23,9 @@ Le dataset contient 10 000 points avec du bruit aléatoire.
 Exécuter depuis le terminal de VS Code :
 
 pip install torch torchvision torchaudio
+
 pip install scikit-learn
+
 pip install matplotlib
 
 ---
@@ -114,4 +116,5 @@ Après l’entraînement, le générateur est utilisé pour produire 1000 nouvea
 Celle du nuage de points des données générées et celle de l'histogramme 2D montrant la densité des points générés.
 
 Ces graphiques permettent de vérifier visuellement si les points générés reproduisent bien la forme du Swiss Roll réel.
+
 
