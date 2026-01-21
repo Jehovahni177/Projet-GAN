@@ -114,3 +114,4 @@ Après l’entraînement, le générateur est utilisé pour produire 1000 nouvea
 Celle du nuage de points des données générées et celle de l'histogramme 2D montrant la densité des points générés.
 
 Ces graphiques permettent de vérifier visuellement si les points générés reproduisent bien la forme du Swiss Roll réel.
+
