@@ -119,3 +119,18 @@ Après l’entraînement, le générateur est utilisé pour produire 1000 nouvea
 Celle du nuage de points des données générées et celle de l'histogramme 2D montrant la densité des points générés.
 
 Ces graphiques permettent de vérifier visuellement si les points générés reproduisent bien la forme du Swiss Roll réel.
+
+---
+
+## Auteur
+
+**Jéhovahni SODJINOU**  
+Étudiant UTT - Mastère Spécialisé Expert Big Data Engineer
+
+## Licence
+
+Ce projet est réalisé à des fins éducatives pour l'UTT.
+
+---
+
+**Dernière mise à jour :** Février 2026
